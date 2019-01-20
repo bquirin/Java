@@ -1,2 +1,2 @@
 # Java
-This repo contains Java projects
+This repo contains previous Java projects.
